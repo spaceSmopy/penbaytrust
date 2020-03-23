@@ -1,4 +1,7 @@
 <?php
+
+add_theme_support( 'menus' );
+add_theme_support( 'widgets' );
 /**
  * ###
  *
@@ -7,8 +10,8 @@
  * ###
  */
 function theme_scripts_styles() {
-    wp_enqueue_style( 'style', get_template_directory_uri() . '/css/style.css' );
-    wp_enqueue_script( 'script', get_template_directory_uri() . '/js/custom.js', array(), '1.0.0', true );
+    wp_enqueue_style( 'style', get_template_directory_uri() . '/css/main.min.css' );
+    wp_enqueue_script( 'script', get_template_directory_uri() . '/js/main.min.js', array(), '1.0.0', true );
 }
 add_action( 'wp_enqueue_scripts', 'theme_scripts_styles' );
 
@@ -81,3 +84,21 @@ function display_theme_panel_fields()
 }
 
 add_action("admin_init", "display_theme_panel_fields");
+
+
+
+
+add_filter( 'nav_menu_css_class', 'add_my_class_to_nav_menu', 10, 2 );
+function add_my_class_to_nav_menu( $classes, $item ){
+    /* $classes содержит
+    Array(
+        [1] => menu-item
+        [2] => menu-item-type-post_type
+        [3] => menu-item-object-page
+        [4] => menu-item-284
+    )
+    */
+    $classes[] = 'nav-list-item';
+
+    return $classes;
+}
