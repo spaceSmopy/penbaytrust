@@ -18,7 +18,7 @@
 wp_body_open();
 ?>
 
-<section class="header"><a class="logo" href="#"><img src="<?php echo get_template_directory_uri()?>/img/svg/logo.svg" alt="logo"></a>
+<section class="header"><a class="logo" href="<?php echo site_url();?>"><img src="<?php echo get_template_directory_uri()?>/img/svg/logo.svg" alt="logo"></a>
         <?php wp_nav_menu( [ 'menu' => 'header_menu', 'container_class' => 'nav', ] );?>
 <!--        <ul class="nav-list">-->
 <!--            <li class="nav-list-item"><a class="nav-link" href="#">Who We Are</a></li>-->
