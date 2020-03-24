@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e077b44f-1fb0-4529-8713-091070e55188" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/contact_template.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/css/main.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/background.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-1024x1024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-167x167.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-180x180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/favicon-48x48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/sprites/intermediate-svg/button.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/sprites/intermediate-svg/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/sprites/sprite.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/svg/button.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/svg/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/js/main.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/js/main.min.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
+            <state relative-caret-position="90">
+              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -79,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+            <state relative-caret-position="504">
+              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
               <folding>
                 <marker date="1585034345179" expanded="true" signature="707:1129" ph="..." />
               </folding>
@@ -88,11 +61,29 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/contact_template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/peninsula-bay-trust-master/peninsula-bay-trust-master/dist/contacts.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="83" column="14" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="83" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Downloads/peninsula-bay-trust-master/peninsula-bay-trust-master/dist/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="51" column="14" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="51" selection-end-column="14" />
+            <state relative-caret-position="334">
+              <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -126,6 +117,7 @@
         <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/contact_template.php" />
       </list>
     </option>
   </component>
@@ -169,39 +161,6 @@
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="penbaytrust-theme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="penbaytrust" type="b2602c69:ProjectViewProjectNode" />
-              <item name="penbaytrust" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="penbaytrust-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="penbaytrust" type="b2602c69:ProjectViewProjectNode" />
-              <item name="penbaytrust" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="penbaytrust-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="penbaytrust" type="b2602c69:ProjectViewProjectNode" />
-              <item name="penbaytrust" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="penbaytrust-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="svg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="penbaytrust" type="b2602c69:ProjectViewProjectNode" />
-              <item name="penbaytrust" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="penbaytrust-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -264,12 +223,12 @@
       <workItem from="1584945102368" duration="3402000" />
       <workItem from="1584953062983" duration="782000" />
       <workItem from="1584953865078" duration="7687000" />
-      <workItem from="1585031408790" duration="2896000" />
+      <workItem from="1585031408790" duration="4826000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14767000" />
+    <option name="totallyTimeSpent" value="16697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -288,8 +247,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33261105" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.33261105" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.33261105" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -339,27 +298,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/peninsula-bay-trust-master/peninsula-bay-trust-master/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/peninsula-bay-trust-master/peninsula-bay-trust-master/dist/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="83" column="14" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="83" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        <state relative-caret-position="504">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
           <folding>
             <marker date="1585034345179" expanded="true" signature="707:1129" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/peninsula-bay-trust-master/peninsula-bay-trust-master/dist/index.html">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="51" column="14" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="51" selection-end-column="14" />
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/index.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/contact_template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
