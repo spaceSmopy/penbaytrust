@@ -21,7 +21,7 @@ wp_body_open();
 
 
 <section class="header wrapper">
-    <a class="logo" href="#">
+    <a class="logo" href="<?php echo  site_url();?>">
         <img class="logo-big" src="<?php echo get_template_directory_uri()?>/img/svg/logo-big.svg" alt="logo-big">
         <img class="logo-small" src="<?php echo get_template_directory_uri()?>/img/svg/logo-small.svg" alt="logo-big">
     </a>
