@@ -40,6 +40,33 @@ function theme_settings_page()
     <?php
 }
 
+function display_left_footer_first()
+{
+    ?>
+    <input type="text" name="left_footer_first" id="left_footer_first" value="<?php echo get_option('left_footer_first'); ?>" />
+    <?php
+}
+function display_left_footer_second()
+{
+    ?>
+    <input type="text" name="left_footer_second" id="left_footer_second" value="<?php echo get_option('left_footer_second'); ?>" />
+    <?php
+}
+function display_left_footer_third()
+{
+    ?>
+    <input type="text" name="left_footer_third" id="left_footer_third" value="<?php echo get_option('left_footer_third'); ?>" />
+    <?php
+}
+
+
+
+function display_phone_element()
+{
+    ?>
+    <input type="text" name="site_phone" id="site_phone" value="<?php echo get_option('site_phone'); ?>" />
+    <?php
+}
 function display_mail_element()
 {
     ?>
@@ -52,53 +79,34 @@ function display_linkedin_element()
     <input type="text" name="linkedin" id="linkedin" value="<?php echo get_option('linkedin'); ?>" />
     <?php
 }
-function display_phone_element()
-{
-    ?>
-    <input type="text" name="site_phone" id="site_phone" value="<?php echo get_option('site_phone'); ?>" />
-    <?php
-}
-function display_leftFooter_element()
-{
-    ?>
-    <input type="text" name="left_footer" id="left_footer" value="<?php echo get_option('left_footer'); ?>" />
-    <?php
-}
+
+
 
 
 function display_theme_panel_fields()
 {
     add_settings_section("section", "Footer Settings", null, "theme-options");
 
+
+    add_settings_field("left_footer_first", "Left Footer (First paragraph): ", "display_left_footer_first", "theme-options", "section");
+    add_settings_field("left_footer_second", "Left Footer (Second paragraph): ", "display_left_footer_second", "theme-options", "section");
+    add_settings_field("left_footer_third", "Left Footer (Third paragraph): ", "display_left_footer_third", "theme-options", "section");
+
+    add_settings_field("site_phone", "Phone: ", "display_phone_element", "theme-options", "section");
     add_settings_field("site_mail", "Mail: ", "display_mail_element", "theme-options", "section");
     add_settings_field("linkedin", "Linkedin Link: ", "display_linkedin_element", "theme-options", "section");
-    add_settings_field("site_phone", "Phone: ", "display_phone_element", "theme-options", "section");
-    add_settings_field("left_footer", "Left Footer Text: ", "display_leftFooter_element", "theme-options", "section");
 
 
+    register_setting("section", "left_footer_first");
+    register_setting("section", "left_footer_second");
+    register_setting("section", "left_footer_third");
+
+    register_setting("section", "site_phone");
     register_setting("section", "site_mail");
     register_setting("section", "linkedin");
-    register_setting("section", "site_phone");
-    register_setting("section", "left_footer");
+
+
 
 }
 
 add_action("admin_init", "display_theme_panel_fields");
-
-
-
-
-add_filter( 'nav_menu_css_class', 'add_my_class_to_nav_menu', 10, 2 );
-function add_my_class_to_nav_menu( $classes, $item ){
-    /* $classes содержит
-    Array(
-        [1] => menu-item
-        [2] => menu-item-type-post_type
-        [3] => menu-item-object-page
-        [4] => menu-item-284
-    )
-    */
-    $classes[] = 'nav-list-item';
-
-    return $classes;
-}
