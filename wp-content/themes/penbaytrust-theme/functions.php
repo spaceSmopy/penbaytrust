@@ -5,7 +5,7 @@ add_theme_support( 'widgets' );
 /**
  * ###
  *
- * enqueue scripts and styles
+ * Enqueue scripts and styles
  *
  * ###
  */
@@ -17,7 +17,15 @@ add_action( 'wp_enqueue_scripts', 'theme_scripts_styles' );
 
 
 
+/**
+ * ###
+ *
+ * Add Theme Panel page
+ *
+ * ###
+ */
 
+// ### Enqueue Theme Panel page
 function add_theme_menu_item()
 {
     add_menu_page("Theme Panel", "Theme Panel", "manage_options", "theme-panel", "theme_settings_page", null, 99);
@@ -39,7 +47,7 @@ function theme_settings_page()
     </div>
     <?php
 }
-
+// ### Enqueue Theme Panel Options
 function display_left_footer_first()
 {
     ?>
@@ -58,9 +66,6 @@ function display_left_footer_third()
     <input type="text" name="left_footer_third" id="left_footer_third" value="<?php echo get_option('left_footer_third'); ?>" />
     <?php
 }
-
-
-
 function display_phone_element()
 {
     ?>
@@ -82,7 +87,7 @@ function display_linkedin_element()
 
 
 
-
+// ### Register Theme Panel Options
 function display_theme_panel_fields()
 {
     add_settings_section("section", "Footer Settings", null, "theme-options");
@@ -104,9 +109,6 @@ function display_theme_panel_fields()
     register_setting("section", "site_phone");
     register_setting("section", "site_mail");
     register_setting("section", "linkedin");
-
-
-
 }
 
 add_action("admin_init", "display_theme_panel_fields");
