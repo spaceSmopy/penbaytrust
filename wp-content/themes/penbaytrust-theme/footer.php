@@ -1,5 +1,6 @@
 </div> <!-- /.container -->
-
+<?php
+if (!is_front_page()){?>
 <section class="footer wrapper">
     <div class="location">
         <p class="info"><?php echo get_option('left_footer_first'); ?></p>
@@ -17,5 +18,8 @@
 
 
 <?php wp_footer(); ?>
+<?php } else {
+    wp_footer();
+}?>
 </body>
 </html>
