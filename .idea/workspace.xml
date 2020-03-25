@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e077b44f-1fb0-4529-8713-091070e55188" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/header.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/service_template.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
@@ -75,11 +76,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="80" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="80" />
+            <state relative-caret-position="352">
+              <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/peninsula-bay-trust-master/peninsula-bay-trust-master/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="38" column="15" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -111,11 +121,11 @@
         <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/footer.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/contact_template.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/service_template.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/header.php" />
       </list>
     </option>
   </component>
@@ -194,8 +204,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\OSPanel\domains\penbaytrust\wp-content\themes\penbaytrust-theme\js" />
       <recent name="C:\OSPanel\domains\penbaytrust\wp-content\themes\penbaytrust-theme\css" />
+      <recent name="C:\OSPanel\domains\penbaytrust\wp-content\themes\penbaytrust-theme\js" />
       <recent name="C:\OSPanel\domains\penbaytrust\wp-content\themes\penbaytrust-theme" />
     </key>
   </component>
@@ -239,17 +249,18 @@
       <workItem from="1584953865078" duration="7687000" />
       <workItem from="1585031408790" duration="14618000" />
       <workItem from="1585116974086" duration="1810000" />
-      <workItem from="1585123215546" duration="601000" />
+      <workItem from="1585123215546" duration="2034000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28900000" />
+    <option name="totallyTimeSpent" value="30333000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18017058" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18017058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -262,7 +273,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.33261105" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.33261105" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.33261105" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -296,13 +307,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="91" column="14" selection-start-line="84" selection-start-column="4" selection-end-line="91" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/peninsula-bay-trust-master/peninsula-bay-trust-master/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -348,17 +352,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="80" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/service_template.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="21" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/peninsula-bay-trust-master/peninsula-bay-trust-master/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="38" column="15" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
         </state>
       </provider>
     </entry>

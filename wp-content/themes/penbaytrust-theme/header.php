@@ -27,9 +27,9 @@ wp_body_open();
     </a>
     <?php wp_nav_menu( [ 'menu' => 'header_menu', 'container_class' => 'desctop-menu', ] );?>
     <div class="burger-menu">
-        <a class="burger-menu__button" href="#">
+        <button class="burger-menu__button" >
             <span class="burger-menu__lines"></span>
-        </a>
+        </button>
         <?php wp_nav_menu( [ 'menu' => 'header_menu', 'container_class' => 'burger-menu__nav', ] );?>
         <div class="burger-menu__overlay"></div>
     </div>
