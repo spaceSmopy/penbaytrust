@@ -3,38 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="e077b44f-1fb0-4529-8713-091070e55188" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/css/main.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/bg-contacts.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/bg-contacts.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/bg-home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/bg-home.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-1024x1024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-167x167.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-180x180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/favicon-48x48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/favicons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/sprites/intermediate-svg/attach-file.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/sprites/intermediate-svg/linkedin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/sprites/intermediate-svg/logo-big.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/sprites/intermediate-svg/logo-small.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/sprites/sprite.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/svg/attach-file.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/svg/linkedin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/svg/logo-big.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/svg/logo-small.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/js/main.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/js/main.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/bg-contacts-desctop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/bg-contacts-desctop.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/bg-contacts-mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/bg-contacts-mobile.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/bg-contacts-tablet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/bg-contacts-tablet.webp" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +85,7 @@
       <workItem from="1585031408790" duration="14618000" />
       <workItem from="1585116974086" duration="1810000" />
       <workItem from="1585123215546" duration="4722000" />
-      <workItem from="1585229003199" duration="4263000" />
+      <workItem from="1585229003199" duration="5014000" />
     </task>
     <servers />
   </component>
