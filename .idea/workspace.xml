@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e077b44f-1fb0-4529-8713-091070e55188" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/bg-contacts-desctop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/bg-contacts-desctop.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/bg-contacts-mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/bg-contacts-mobile.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/bg-contacts-tablet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/img/bg-contacts-tablet.webp" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,9 +43,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme" />
       <recent name="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/css" />
       <recent name="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/js" />
-      <recent name="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme" />
       <recent name="C:\OSPanel\domains\penbaytrust\wp-content\themes\penbaytrust-theme\css" />
       <recent name="C:\OSPanel\domains\penbaytrust\wp-content\themes\penbaytrust-theme\js" />
     </key>
@@ -86,6 +80,7 @@
       <workItem from="1585116974086" duration="1810000" />
       <workItem from="1585123215546" duration="4722000" />
       <workItem from="1585229003199" duration="5014000" />
+      <workItem from="1585241965286" duration="1084000" />
     </task>
     <servers />
   </component>
@@ -97,7 +92,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
