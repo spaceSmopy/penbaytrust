@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e077b44f-1fb0-4529-8713-091070e55188" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/css/main.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/js/main.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/js/main.min.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,13 +24,6 @@
         <option value="JavaScript File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>myplugin_options_group</find>
-      <find>myplugin_option_name</find>
-      <find>wptuts_get_settings</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -86,7 +81,7 @@
       <workItem from="1585031408790" duration="14618000" />
       <workItem from="1585116974086" duration="1810000" />
       <workItem from="1585123215546" duration="4722000" />
-      <workItem from="1585229003199" duration="1689000" />
+      <workItem from="1585229003199" duration="3297000" />
     </task>
     <servers />
   </component>
