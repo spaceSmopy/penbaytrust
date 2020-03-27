@@ -12,8 +12,6 @@ $content = apply_filters('the_content', $post->post_content);
         <h2 class="contact-us__title"><?php echo get_the_title($post);?></h2>
         <p class="contact-us__text"><?php echo wp_filter_nohtml_kses($content);?></p>
     </div>
-    <form class="contact-us__form">
-        <?php echo do_shortcode('[contact-form-7 id="20" title="Contact form"]');?>
-    </form>
+    <?php echo do_shortcode('[contact-form-7 id="20" title="Contact form"]');?>
 </section>
 <?php get_footer(); ?>
