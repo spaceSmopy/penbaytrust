@@ -12,7 +12,7 @@
 
 </head>
 
-<body class=" home-page">
+<body <?php body_class(); ?>>
 
 <?php
 wp_body_open();
