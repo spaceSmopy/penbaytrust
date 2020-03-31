@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e077b44f-1fb0-4529-8713-091070e55188" name="Default Changelist" comment="" />
+    <list default="true" id="e077b44f-1fb0-4529-8713-091070e55188" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/penbaytrust-theme/index.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +82,8 @@
       <workItem from="1585123215546" duration="4722000" />
       <workItem from="1585229003199" duration="5014000" />
       <workItem from="1585241965286" duration="6563000" />
-      <workItem from="1585556363244" duration="566000" />
+      <workItem from="1585556363244" duration="1657000" />
+      <workItem from="1585683071834" duration="53000" />
     </task>
     <servers />
   </component>
